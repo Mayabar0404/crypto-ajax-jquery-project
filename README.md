@@ -1,0 +1,1 @@
+# crypto-ajax-jquery-project
